@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "봉담읍 안전지도",
+  "name": "봉담읍 온라인 마을안전지도",
   "icons": [
     {
       "src": "favicon.ico",
